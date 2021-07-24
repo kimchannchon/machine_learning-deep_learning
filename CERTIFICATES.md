@@ -6,75 +6,91 @@
 
 - ##### TensorFlow Developer Professional Certificate
 
-  <img src="certificates\TensorFlow Developer Professional Certificate Program  II  DeepLearning.AI\DeepLearning.AI TensorFlow Developer_E5NLXY3SAUSK.jpg">
-
-- ##### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
-
-  <img src="certificates\TensorFlow Developer Professional Certificate Program  II  DeepLearning.AI\Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning_X9ACK8AYR3KK.jpg">
-
-- ##### Convolutional Neural Networks in TensorFlow 
-
-  <img src="certificates\TensorFlow Developer Professional Certificate Program  II  DeepLearning.AI\Convolutional Neural Networks in TensorFlow_9T3MAGFNUM7C.jpg">
-
-- ##### Natural Language Processing in TensorFlow
-
-  <img src="certificates\TensorFlow Developer Professional Certificate Program  II  DeepLearning.AI\Natural Language Processing in TensorFlow_EN5C3FQZX68J.jpg">
-
-- ##### Sequences, Time Series and Prediction
-
-  <img src="certificates\TensorFlow Developer Professional Certificate Program  II  DeepLearning.AI\Sequences, Time Series and Prediction_JTY4GMXDK5CZ.jpg">
+  <img src="certificates\TensorFlow Developer Professional Certificate Program\DeepLearning.AI TensorFlow Developer_E5NLXY3SAUSK.jpg">
 
 - ##### TensorFlow: Advanced Techniques Specialization
 
-  <img src="certificates\TensorFlow_Advanced Techniques Specialization  II  DeepLearning.AI\TensorFlow_Advanced Techniques_7Q2TZKJGYZM5.jpg">
+  <img src="certificates\TensorFlow_Advanced Techniques Specialization\TensorFlow_Advanced Techniques_7Q2TZKJGYZM5.jpg">
+
+- #####  TensorFlow: Data and Deployment Specialization
+
+  <img src="certificates\TensorFlow_Data and Deployment Specialization\TensorFlow_Data and Deployment_J6U8EHFNQP5N.jpg">
+
+- ##### AI for Medicine Specialization
+
+  <img src="certificates\AI for Medicine Specialization\AI for Medicine Specialization_VBH22XV3PLU9.jpg">
+
+- ##### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
+
+  <img src="certificates\TensorFlow Developer Professional Certificate Program\Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning_X9ACK8AYR3KK.jpg">
+
+- ##### Convolutional Neural Networks in TensorFlow 
+
+  <img src="certificates\TensorFlow Developer Professional Certificate Program\Convolutional Neural Networks in TensorFlow_9T3MAGFNUM7C.jpg">
+
+- ##### Natural Language Processing in TensorFlow
+
+  <img src="certificates\TensorFlow Developer Professional Certificate Program\Natural Language Processing in TensorFlow_EN5C3FQZX68J.jpg">
+
+- ##### Sequences, Time Series and Prediction
+
+  <img src="certificates\TensorFlow Developer Professional Certificate Program\Sequences, Time Series and Prediction_JTY4GMXDK5CZ.jpg">
 
 - ##### Custom Models, Layers, and Loss Functions with TensorFlow
 
-  <img src="certificates\TensorFlow_Advanced Techniques Specialization  II  DeepLearning.AI\Custom Models, Layers, and Loss Functions with TensorFlow_8VDG4V8QDUJX.jpg">
+  <img src="certificates\TensorFlow_Advanced Techniques Specialization\Custom Models, Layers, and Loss Functions with TensorFlow_8VDG4V8QDUJX.jpg">
 
 - ##### Custom and Distributed Training with TensorFlow
 
-  <img src="certificates\TensorFlow_Advanced Techniques Specialization  II  DeepLearning.AI\Custom and Distributed Training with TensorFlow_GJ7E6CNYVFGD.jpg">
+  <img src="certificates\TensorFlow_Advanced Techniques Specialization\Custom and Distributed Training with TensorFlow_GJ7E6CNYVFGD.jpg">
 
 - ##### Advanced Computer Vision with TensorFlow
 
-  <img src="certificates\TensorFlow_Advanced Techniques Specialization  II  DeepLearning.AI\Advanced Computer Vision with TensorFlow_CR9XEC5H9SR7.jpg">
+  <img src="certificates\TensorFlow_Advanced Techniques Specialization\Advanced Computer Vision with TensorFlow_CR9XEC5H9SR7.jpg">
 
 - ##### Generative Deep Learning with TensorFlow 
 
-  <img src="certificates\TensorFlow_Advanced Techniques Specialization  II  DeepLearning.AI\Generative Deep Learning with TensorFlow_HFJUSVLBD85P.jpg">
-
-- ##### TensorFlow: Data and Deployment Specialization
-
-  <img src="certificates\TensorFlow_Data and Deployment Specialization  II  DeepLearning.AI\TensorFlow_Data and Deployment_J6U8EHFNQP5N.jpg">
+  <img src="certificates\TensorFlow_Advanced Techniques Specialization\Generative Deep Learning with TensorFlow_HFJUSVLBD85P.jpg">
 
 - ##### Browser-based Models with TensorFlow.js 
 
-  <img src="certificates\TensorFlow_Data and Deployment Specialization  II  DeepLearning.AI\Browser-based Models with TensorFlow.js_E7DAHGV36GZJ.jpg">
+  <img src="certificates\TensorFlow_Data and Deployment Specialization\Browser-based Models with TensorFlow.js_E7DAHGV36GZJ.jpg">
 
 - ##### Device-based Models with TensorFlow Lite 
 
-  <img src="certificates\TensorFlow_Data and Deployment Specialization  II  DeepLearning.AI\Device-based Models with TensorFlow Lite_H5D4GVTBTL4J.jpg">
+  <img src="certificates\TensorFlow_Data and Deployment Specialization\Device-based Models with TensorFlow Lite_H5D4GVTBTL4J.jpg">
 
 - ##### Data Pipelines with TensorFlow Data Services 
 
-  <img src="certificates\TensorFlow_Data and Deployment Specialization  II  DeepLearning.AI\Data Pipelines with TensorFlow Data Services_9ZUNR3UE79FG.jpg">
+  <img src="certificates\TensorFlow_Data and Deployment Specialization\Data Pipelines with TensorFlow Data Services_9ZUNR3UE79FG.jpg">
 
 - ##### Advanced Deployment Scenarios with TensorFlow 
 
-  <img src="certificates\TensorFlow_Data and Deployment Specialization  II  DeepLearning.AI\Advanced Deployment Scenarios with TensorFlow_KSMJTZL7EM82.jpg">
+  <img src="certificates\TensorFlow_Data and Deployment Specialization\Advanced Deployment Scenarios with TensorFlow_KSMJTZL7EM82.jpg">
 
 - ##### Recommendation Systems with TensorFlow on GCP
 
-  <img src="certificates\Recommendation Systems with TensorFlow on GCP  II  Google Cloud\Recommendation Systems with TensorFlow on GCP_Q9MCC2DYGV5J.jpg">
+  <img src="certificates\Recommendation Systems with TensorFlow on GCP\Recommendation Systems with TensorFlow on GCP_Q9MCC2DYGV5J.jpg">
+
+- ##### AI for Medical Diagnosis
+
+  <img src="certificates\AI for Medicine Specialization\AI for Medical Diagnosis_WE5F9L984TME.jpg">
+
+- ##### AI for Medical Prognosis
+
+  <img src="certificates\AI for Medicine Specialization\AI for Medical Prognosis_CVRWHM5YHZY6.jpg">
+
+- ##### AI For Medical Treatment
+
+  <img src="certificates\AI for Medicine Specialization\AI For Medical Treatment_G2KEGQ86DQ5Y.jpg">
 
 - ##### Introduction to Self-Driving Cars
 
-  <img src="certificates\Self-Driving Cars Specialization  II  University of Toronto\Introduction to Self-Driving Cars_489DZWEYD7TV.jpg">
+  <img src="certificates\Self-Driving Cars Specialization\Introduction to Self-Driving Cars_489DZWEYD7TV.jpg">
 
 - ##### Visual Perception for Self-Driving Cars 
 
-  <img src="certificates\Self-Driving Cars Specialization  II  University of Toronto\Visual Perception for Self-Driving Cars_EJWNNRFANV7S.jpg">
+  <img src="certificates\Self-Driving Cars Specialization\Visual Perception for Self-Driving Cars_EJWNNRFANV7S.jpg">
 
   
 
