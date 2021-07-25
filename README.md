@@ -6,9 +6,13 @@ I have deep-dived into machine learning-based projects. My research in demanding
 
 ##FOR PERSONAL USE ONLY##
 
+------
+
 
 
 #### DATA SCIENCE/MACHINE LEARNING/DEEP LEANING
+
+------
 
 - ##### TensorFlow Developer
 
@@ -102,9 +106,31 @@ I have deep-dived into machine learning-based projects. My research in demanding
 
   <img src="certificates/Self-Driving Cars Specialization/Visual Perception for Self-Driving Cars_EJWNNRFANV7S.jpg">
 
-  
+- ##### Python 
+
+  <img src="certificates/KAGGLE/Kimchann Chon - Python.png">
+
+- ##### Intro to SQL
+
+  <img src="certificates/KAGGLE/Kimchann Chon - Intro to SQL.png">
+
+- ##### Advanced SQL
+
+  <img src="certificates/KAGGLE/Kimchann Chon - Advanced SQL.png">
+
+- ##### Data Cleaning
+
+  <img src="certificates/KAGGLE/Kimchann Chon - Data Cleaning.png">
+
+- ##### Feature Engineering
+
+  <img src="certificates/KAGGLE/Kimchann Chon - Feature Engineering.png">
+
+------
 
 #### OTHERS
+
+------
 
 - ##### Global Korea Scholarship for Graduate - GKS
 
