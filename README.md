@@ -1,16 +1,12 @@
 # PORTFOLIO - Kimchann Chon
 
---The Portfolio is updating--
-
-I have deep-dived into machine learning-based projects. My research in demanding forecasting of a manufacturing industry proved a strong potential improvement of efficiency in this new industrial revolution. I dedicate myself to be a specialist equipping advanced techniques in deep learning.
-
-##FOR PERSONAL USE ONLY##
+I am currently a researcher at the Blockchain Internet Economy Research Center at GIST, South Korea, under a project on blockchain and machine learning integration. Throughout my thesis research on machine learning-based demand forecasting, the significant result proved the potential evolution of artificial intelligence-based industrial processes. Meanwhile, the crucial roles of blockchain algorithms in concrete security and privacy leverage machine learning outcome efficiency to completely automated production.
 
 ------
 
 
 
-#### DATA SCIENCE/MACHINE LEARNING/DEEP LEANING
+#### DATA SCIENCE/MACHINE LEARNING
 
 ------
 
@@ -110,6 +106,14 @@ I have deep-dived into machine learning-based projects. My research in demanding
 
   <img src="certificates/KAGGLE/Kimchann Chon - Python.png">
 
+- ##### Intro to Machine Learning
+
+  <img src="certificates/KAGGLE/Kimchann Chon - Intro to Machine Learning.png">
+
+- ##### Intermediate Machine Learning
+
+  <img src="certificates/KAGGLE/Kimchann Chon - Intermediate Machine Learning.png">
+
 - ##### Intro to SQL
 
   <img src="certificates/KAGGLE/Kimchann Chon - Intro to SQL.png">
@@ -136,6 +140,10 @@ I have deep-dived into machine learning-based projects. My research in demanding
 
   <img src="certificates/other-certificates/[2018-2021]-Global Korea Scholarship for Graduate Program (GKS).jpg">
 
+- ##### MSc, Industrial Engineering
+
+  <img src="certificates/other-certificates/2021-MSc in Computer Science.jpg">
+
 - ##### Fostering ASEAN Future Leaders  Program - FAFL
 
   <img src="certificates/other-certificates/[2014-2015]-Fostering ASEAN Future Leaders  Program (FAFL).jpg">
@@ -143,10 +151,6 @@ I have deep-dived into machine learning-based projects. My research in demanding
 - ##### Employment Certificate of SEATEL 
 
   <img src="certificates/other-certificates/2018-Employment Certificate of SEATEL.jpg">
-
-- ##### BSc, Computer Science
-
-  <img src="certificates/other-certificates/2018-BSc in Computer Science.jpg">
 
 - ##### Internship, ASEAN-Korea Centre 
 
