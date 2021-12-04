@@ -142,7 +142,7 @@ I am currently a researcher at the Blockchain Internet Economy Research Center a
 
 - ##### MSc, Industrial Engineering
 
-  <img src="certificates/other-certificates/2021-MSc in Computer Science.jpg">
+  <img src="certificates/other-certificates/2021-MSc in Industrial Engineering.jpg">
 
 - ##### Fostering ASEAN Future Leaders  Program - FAFL
 
