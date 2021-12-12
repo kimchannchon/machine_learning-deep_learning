@@ -129,6 +129,22 @@ I am currently a researcher at the Blockchain Internet Economy Research Center a
 - ##### Feature Engineering
 
   <img src="certificates/KAGGLE/Kimchann Chon - Feature Engineering.png">
+  
+- ##### Blockchain Basics
+
+  <img src="certificates/Blockchain Specialization/Blockchain Basics_Z625KL3YEDG4.jpg">
+
+- ##### Smart Contracts
+
+  <img src="certificates/Blockchain Specialization/Smart Contracts_DB8UTV29837B.jpg">
+
+  ------
+
+  #### OTHERS
+
+  ------
+
+  #### OTHERS
 
 ------
 
