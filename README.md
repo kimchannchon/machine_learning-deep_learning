@@ -30,6 +30,10 @@ I am currently a researcher at the Blockchain Internet Economy Research Center a
 
   <img src="certificates/AI for Medicine Specialization/AI for Medicine Specialization_VBH22XV3PLU9.jpg">
 
+- Blockchain Specialization
+
+  <img src="certificates/Blockchain Specialization/Blockchain Specialization_49E79CEMAAUL.png">
+
 - ##### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
 
   <img src="certificates/TensorFlow Developer Professional Certificate Program/Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning_X9ACK8AYR3KK.jpg">
@@ -138,13 +142,15 @@ I am currently a researcher at the Blockchain Internet Economy Research Center a
 
   <img src="certificates/Blockchain Specialization/Smart Contracts_DB8UTV29837B.jpg">
 
-  ------
+- Decentralized Applications (Dapps)
 
-  #### OTHERS
+  <img src="certificates/Blockchain Specialization/Decentralized Applications (Dapps)_ZGJFYT7SLEYQ.png">
 
-  ------
+- Blockchain Platforms
 
-  #### OTHERS
+  <img src="certificates/Blockchain Specialization/Blockchain Platforms_XQWZE3X84LEK.png">
+
+  
 
 ------
 
