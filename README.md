@@ -1,6 +1,6 @@
 # PORTFOLIO - Kimchann Chon
 
-I am currently a researcher at the Blockchain Internet Economy Research Center at GIST, South Korea, under a project on blockchain and machine learning integration. Throughout my thesis research on machine learning-based demand forecasting, the significant result proved the potential evolution of artificial intelligence-based industrial processes. Meanwhile, the crucial roles of blockchain algorithms in concrete security and privacy leverage machine learning outcome efficiency to completely automated production.
+As a committed researcher, I tackled intricate challenges in supply chain management by utilizing applied machine learning techniques, resulting in innovative solutions that optimized operational processes. My expertise as a data professional with a specialization in data science empowers me to combine strong analytical capabilities, proficiency in exploratory data analysis, regression analysis, and mastery of tools such as Python and Tableau. My ability to communicate effectively and listen actively ensures a comprehensive understanding of business needs, which I translate into actionable and impactful data-driven strategies.
 
 ------
 
